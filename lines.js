@@ -35,7 +35,7 @@ module.exports = [
   "stars, stars",
   "where does this melancholy come from?",
   "and stars speak",
-  "stars tell everything.",
+  "stars tell everything",
   "time's river in its rushing current",
   "nations, kingdoms and their kings,",
   "is there something remaining?",
