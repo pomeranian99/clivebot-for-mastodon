@@ -1,7 +1,7 @@
 module.exports = [
   "an ancient pond",
   "with a sound from the water",
-  "of the frog as it plunges in",
+  "hear the frog as it plunges in",
   "just enough to bend",
   "the gladiolus leaves",
   "a cloud of flowers",
