@@ -1,0 +1,8 @@
+{
+  "name": "clivebot-for-mastodon",
+  "version": "1.0.0",
+  "description": "a clivebot, now for mastodon",
+  "engines": {
+    "node": ">=18"
+  }
+}
