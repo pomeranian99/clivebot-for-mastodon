@@ -955,5 +955,10 @@ module.exports = [
   "nothing is left, nothing",
   "amidst the rocks, a single daisy",
   "too loud to hear",
-  "sweet dreams, my enemy"
+  "sweet dreams, my enemy",
+  "a sword that refuses to strike",
+  "your eyes dull as my knife",
+  "sweet sorrow",
+  "the patient lilies",
+  "strange shapes in the smoke"
 ];
